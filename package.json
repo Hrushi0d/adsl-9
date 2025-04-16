@@ -1,0 +1,28 @@
+{
+  "name": "assgn9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrushi0d/adsl-9.git"
+  },
+  "author": "Hrushi0d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrushi0d/adsl-9/issues"
+  },
+  "homepage": "https://github.com/Hrushi0d/adsl-9#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cassandra-driver": "^4.8.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "nodemon": "^3.1.9"
+  }
+}
